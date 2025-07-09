@@ -7,5 +7,7 @@ title: "ソフトウェア工学　2025"
 ---
 
 # ソフトウェア工学　2025
-a
+
 git/github演習
+
+[softwareEng Lecture Notes](softwareEng2025.md)
